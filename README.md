@@ -1,2 +1,2 @@
 # newral_networks
-Задачи в рамках открытого курса по нейронным сетям. Технотрек, весна 2019.
+Tasks during the open course on neural networks. Technotrack, spring 2019.
